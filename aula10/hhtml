@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 8</title>
+    <link rel="shortcut icon" href="./src/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <title>Aula 10</title>
+    <h1>sumario</h1>
+    <h2>4.1 o impo<h2>
+        <h4>diagnoscicos<h5> 
+            <h5>catalogo automotivo<h5> 
+                <h6>repositorio institusional<h6>
+                
+                <p>O  professor fabricio, é um cara legual e nasceu em <u>R jose romero Duque, 185 </u> <b>Mantena MG</b> no hospital evangelico</p>  
+                <p>O  professor fabricio, é um cara legual e nasceu em <addres>R jose romero Duque, 185 </addres> <b>Mantena MG</b> no hospital evangelico</p>  
+    <BR><pre><COD> def kelvin_to_fahrenheit(kelvin):
+        # Converte Kelvin para Fahrenheit
+        fahrenheit = ((kelvin - 273.15) * 9/5) + 32
+        return fahrenheit</COD></pre></BR>
+        <p><leroy></leroy>
+        </p>
+</body>
+</html>
