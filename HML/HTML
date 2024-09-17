@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+
+</head>
+
+<body>
+    <table=1>
+        <tr>
+            <th>Produto </th>
+            <th>Preço</th>
+            <th>colspan=2>disponibilidade</th>
+        </tr>
+        <table>
+
+            <table border="1">
+                <th>Camisa </th>
+                <th> R$39,90</th>
+                <tr>
+                    <th>calça</th>
+                    <th> 89,90</th>
+                </tr>
+                <th>Short </th>
+                <th> 59.90</th>
+                <tr>
+
+                    <th> meia</th>
+                    <th> 29.90</th>
+                </tr>
+                <td>indisponivel</td>
+                <td>-</td>
+            </table>
+</body>
+
+</html>
