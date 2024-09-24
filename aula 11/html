@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> </title>
+   </head>
+   <body>
+    <h1>  Link para receitas </h1>
+     <p>Cloque no link para obter receitas <a href="https://www.tudogostoso.com.br/"> Receitas</a>  </p>
+     <h1>  Link para receitas  de frango</h1>
+     <p>Cloque no link para obter receitas de id=frango  <a href="https://www.tudogostoso.com.br/noticias/nao-aguenta-mais-comer-peito-de-frango-descubra-5-opcoes-de-proteina-magra-e-gostosa-para-substituir-e-nao-enjoar-a15543.htm"> Receitas</a> Clique aqui </p>
+   </body>
+</html>
