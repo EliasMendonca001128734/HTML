@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title> formulario de açai</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    
+  <p>
+    <form>
+    <H1>Marque  aqui suas preferencias do seu açai</H1>
+    <h2>frutas</h2>
+    <label for="taste_1">Bananana</label>
+    <input type="checkbox" id="taste_1" name="Bananana" value="1">
+    <label for="taste_2">Morango</label>
+    <input type="checkbox" id="taste_2" name="Morango" value="1">
+    <label for="taste_3">Abacaxi</label>
+    <input type="checkbox" id="taste_3" name="Abacaxi" value="1"> </p>
+    <H1>Complemento</H2> <p>
+        <label for="taste_4">chocolate</label>
+    <input type="checkbox" id="taste_4" name="chocolate" value="1">
+    <label for="taste_5"> calda</label>
+    <input type="checkbox" id="taste_5" name="calda" value="1">
+    <label for="taste_6">Melado</label>
+    <input type="checkbox" id="taste_6" name="Melado" value="1">
+  </p>
+  <p><h2>Deixe a sua Observação </h2>
+    <textarea>OBS</textarea>
+    </p>
+    <P><label for="email">Email:</label>
+        <input type="email" id="email" name="email"></p>
+
+        <P><label for="Senha">Senha:</label>
+            <input type="Senha" id="Senha" name="Senha"></p>
+        
+            <button> <submit>Enviar</submit></button>
+            <button> <reset>Excluir</reset> </button>
+        <p></p>
+</form>
+
+  </body>
+</html>
